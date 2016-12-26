@@ -1,34 +1,15 @@
 analytics-php
 ==============
 
-[![Build Status](https://travis-ci.org/segmentio/analytics-php.png?branch=master)](https://travis-ci.org/segmentio/analytics-php)
-
-analytics-php is a php client for [Segment](https://segment.com)
+analytics-php is a php client for something
 
 ## Documentation
 
 Documentation is available at [segment.com/docs/sources/server/php](https://segment.com/docs/sources/server/php/)
 
-## Releasing
-
-Run `make release VERSION=<version>`. It should automatically tag and release in composer
-
 ## License
 
-```
-WWWWWW||WWWWWW
- W W W||W W W
-      ||
-    ( OO )__________
-     /  |           \
-    /o o|    MIT     \
-    \___/||_||__||_|| *
-         || ||  || ||
-        _||_|| _||_||
-       (__|__|(__|__|
-```
-
-(The MIT License)
+The MIT License
 
 Copyright (c) 2014 Segment Inc. <friends@segment.com>
 
